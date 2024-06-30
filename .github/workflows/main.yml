@@ -1,4 +1,4 @@
-name: run-checks
+.name: run-checks
 
 permissions: read-all
 
